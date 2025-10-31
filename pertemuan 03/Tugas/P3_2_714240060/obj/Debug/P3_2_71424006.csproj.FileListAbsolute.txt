@@ -1,8 +1,0 @@
-C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P3_2_71424006\P3_2_71424006\bin\Debug\P3_2_71424006.exe.config
-C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P3_2_71424006\P3_2_71424006\bin\Debug\P3_2_71424006.exe
-C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P3_2_71424006\P3_2_71424006\bin\Debug\P3_2_71424006.pdb
-C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P3_2_71424006\P3_2_71424006\obj\Debug\P3_2_71424006.csproj.AssemblyReference.cache
-C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P3_2_71424006\P3_2_71424006\obj\Debug\P3_2_71424006.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P3_2_71424006\P3_2_71424006\obj\Debug\P3_2_71424006.exe
-C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P3_2_71424006\P3_2_71424006\obj\Debug\P3_2_71424006.pdb
-C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P3_2_71424006\P3_2_71424006\obj\Debug\P3_2_71424006.exe.config
