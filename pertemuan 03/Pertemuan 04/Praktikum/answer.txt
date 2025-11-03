@@ -1,0 +1,16 @@
+14). Error muncul karena myType tidak memiliki level akses publik, sehingga tidak bisa diakses dari class lain (Program).
+Solusinya adalah dengan menambahkan modifier public (atau internal, jika masih dalam namespace/assembly yang sama) pada deklarasi anggota myType di class Product_714240060.
+
+19. Tampilan debug console yang kosong tersebut terjadi karena program sebenarnya sudah berjalan dan berhenti dengan normal (ditunjukkan oleh pesan “exited with code 0 (0x0)”), tetapi tidak menampilkan apa pun di layar. Hal ini bisa disebabkan oleh beberapa hal, seperti tidak adanya perintah Console.WriteLine() yang mencetak keluaran, nilai yang dicetak kosong, atau jendela console yang langsung tertutup setelah program selesai dijalankan.
+
+24.Kata “DVD” muncul pada jendela Microsoft Visual Studio Debug Console karena program mengeksekusi perintah untuk menampilkan nilai dari variabel myType yang terdapat pada objek myProduct. Sebelumnya, variabel myType telah diisi dengan nilai string "DVD", sehingga ketika perintah Console.WriteLine(myProduct.myType); dijalankan, program menampilkan hasil tersebut di layar. Hal ini menunjukkan bahwa program telah berjalan dengan benar, di mana objek berhasil dibuat, nilai variabel berhasil diset, dan hasilnya berhasil ditampilkan tanpa terjadi kesalahan.
+
+bagian 2
+
+8. Tipe dan judul buku tidak muncul karena nilai atribut myType dan myTitle pada class induk belum diinisialisasi oleh subclass. Hal ini terjadi karena constructor di subclass tidak memanggil constructor milik superclass. Fenomena ini dijelaskan dalam konsep OOP yaitu inheritance (pewarisan) dan encapsulation, di mana data dalam superclass tidak otomatis terisi tanpa pemanggilan base() oleh subclass.
+
+12.Saat ini tipe dan judul buku sudah tampil pada output karena constructor pada class Book_714240060 telah memanggil constructor milik class induk Product_714240060 menggunakan perintah : base(type, title).
+Dengan pemanggilan ini, nilai parameter type dan title dari objek yang dibuat dikirim ke atribut myType dan myTitle pada class induk.
+Fenomena ini merupakan penerapan konsep OOP yaitu inheritance (pewarisan) dan constructor chaining, di mana subclass mewarisi serta menginisialisasi data dari superclass agar dapat ditampilkan dengan benar.
+
+Karena product2 hanya mnerima 2 parameter yaitu string title, string duration
