@@ -1,0 +1,8 @@
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P4_1_714240060\P4_1_714240060\bin\Debug\P4_1_714240060.exe.config
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P4_1_714240060\P4_1_714240060\bin\Debug\P4_1_714240060.exe
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P4_1_714240060\P4_1_714240060\bin\Debug\P4_1_714240060.pdb
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P4_1_714240060\P4_1_714240060\obj\Debug\P4_1_714240060.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P4_1_714240060\P4_1_714240060\obj\Debug\P4_1_714240060.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P4_1_714240060\P4_1_714240060\obj\Debug\P4_1_714240060.exe
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P4_1_714240060\P4_1_714240060\obj\Debug\P4_1_714240060.pdb
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P4_1_714240060\P4_1_714240060\obj\Debug\P4_1_714240060.exe.config
