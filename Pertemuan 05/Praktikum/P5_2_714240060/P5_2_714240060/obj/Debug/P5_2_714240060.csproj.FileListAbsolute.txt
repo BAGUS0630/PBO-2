@@ -1,0 +1,12 @@
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\bin\Debug\P5_2_714240060.exe.config
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\bin\Debug\P5_2_714240060.exe
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\bin\Debug\P5_2_714240060.pdb
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\obj\Debug\P5_2_714240060.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\obj\Debug\P5_2_714240060.ChildForm.resources
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\obj\Debug\P5_2_714240060.ParentForm.resources
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\obj\Debug\P5_2_714240060.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\obj\Debug\P5_2_714240060.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\obj\Debug\P5_2_714240060.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\obj\Debug\P5_2_714240060.exe
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\obj\Debug\P5_2_714240060.pdb
+C:\Users\Administrator\OneDrive\Documents\pemrograman 2\P5_2_714240060\P5_2_714240060\obj\Debug\P5_2_714240060.exe.config
